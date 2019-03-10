@@ -1,0 +1,9 @@
+*#
+*.odt
+*.pdf
+*.ods
+*.tar*
+*.zip
+*.poo
+.LABs/
+.TMP/
